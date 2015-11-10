@@ -1,0 +1,9 @@
+Package: com.malthehensberg.infiniloader
+Name: InfiniLoader
+Depends: winterboard
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A winterboard-based theme called InfiniLoader
+Maintainer: MaltheHensberg <malthesemail@gmail.com>
+Author: MaltheHensberg <malthesemail@gmail.com>
+Section: Themes (SpringBoard)
